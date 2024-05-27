@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.09.13 12:26:30.691.pas,C:\My documents\RAD Studio\Projects\Unit2.pas=D:\Programming\delphi_2010\tria-group\mainForm.pas</Transaction>
+    <Transaction>2011.09.13 12:26:30.691.dfm,C:\My documents\RAD Studio\Projects\Unit2.dfm=D:\Programming\delphi_2010\tria-group\mainForm.dfm</Transaction>
+    <Transaction>2011.09.13 12:26:47.217.dproj,C:\My documents\RAD Studio\Projects\Project2.dproj=D:\Programming\delphi_2010\tria-group\tria_group.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
